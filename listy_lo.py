@@ -5,3 +5,4 @@ food.extend(food2)
 print(food[0:2])
 breakfast=['eggs,fruit,orange juice']
 print(breakfast.split(','))
+print(len(breakfast))
